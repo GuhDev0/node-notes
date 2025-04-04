@@ -1,6 +1,9 @@
 - 1 PASSO - INSTALANDO TypeScript
 
 Codigo : npm install typescript --save-dev
+Codigo : npm install -g typescript (instalar no projeto todo)
+    --Codigo para instalar o arquivo de configuração do typeScript
+      --tsc --init
 
 - 2 PASSO - INSTALANDO OS TIPOS DE CADA BIBLIOTECA PARA O TYPESCRIPT ENTENDER
 
